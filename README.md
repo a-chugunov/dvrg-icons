@@ -1,6 +1,7 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/a-chugunov/dvrgicons)
+
 # dvrgicons - dvrg.io
 dvrg.io - JS avatar/identicon/background generation
-
 
 ## Features
 * Generate cool looking avatars/identicons/backgrounds
